@@ -1,0 +1,65 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "azusa.wiki",
+        "pterclub.com",
+        "springsunday.net"
+      ],
+      "domain_keyword": [
+        "spaceship",
+        "anaconda",
+        "debian",
+        "docker",
+        "fanart",
+        "github",
+        "githubusercontent",
+        "hhanclub",
+        "ipify",
+        "iwiki",
+        "justwatch",
+        "metacubex",
+        "mikrotik",
+        "muji",
+        "notion",
+        "palworldgame",
+        "termius",
+        "gitbook",
+        "wiki"
+      ],
+      "domain_suffix": [
+        "nexusphp.org",
+        "pcbeta.com",
+        "giffgaff.com",
+        "archlinux.org",
+        "pool.ntp.org",
+        "pypi.org",
+        "pkgbuild.com",
+        "tsb2blog.com",
+        "softonic.com",
+        "github.io",
+        "proxmox.com",
+        "arch-mirror.wtako.net",
+        "audiences.me",
+        "bgm.tv",
+        "claw.cloud",
+        "debian.org",
+        "docker.io",
+        "doubleclick.net",
+        "hdhive.online",
+        "hdfans.org",
+        "hhan.club",
+        "hltv.org",
+        "invites.fun",
+        "leaves.red",
+        "linux.do",
+        "osbeck.com",
+        "movie-pilot.org",
+        "nmnm.fun",
+        "sing-box.sagernet.org",
+        "sunnypt.top"
+      ]
+    }
+  ]
+}
